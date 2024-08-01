@@ -1,0 +1,173 @@
+body{
+ background-image: url("../imagen/naturaleza\ jpg.jpeg");
+    
+}  
+header{
+    background-color: rgb(187, 187, 241);
+    color: lightslategray
+    height: 20px;
+    margin: 10px;
+    padding: 30px;
+    Text-align: center;
+    FONT-STYLE: ITALIC;
+    FONT-WEIGHT: BOLD;
+    FONT-SIZE: 50PX;
+
+}
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+                 10px 10px 4px green;
+    letter-spacing: 20px;
+    word-spacing: 100px;
+    letter-spacing: 20px;
+    word-spacing: 100px;
+    TEXT-DECORATION: overline;
+    
+}
+.imagen-destacada {
+    width: 200px;
+    height: 200px;
+    border: 2px solid pink;
+    border-radius: 10px;
+    Text-align: center;
+}
+.bibliografia{
+    color: black;
+    font-size: 20px;
+    border: 10px;
+    text-align: center;
+
+}
+.proyecto{
+    color: black;
+    font-size: 20px;
+    border: 10px;
+    text-align: center;
+
+
+}
+.ESPECIALIDADES{
+    color: black;
+    font-size: 20px;
+    border: 10px;
+    text-align: center;
+}
+img{
+    margin:100px;
+    padding: 100px;
+}
+IMG NAV{
+
+    Text-align: center
+
+}
+nav{
+    background-color: rgb(243, 115, 179);
+    color: pink
+    font-family: fuchsia
+}
+nav{
+    border: 3px solid;
+}
+section{
+    background-color: blueviolet;
+    color:rgb(127, 255, 155)
+}
+article{
+    background-color: lightslategray;
+    margin: 10px;
+    padding: 20px;
+    Text-align: center
+}
+article<p{
+    background-color: rosybrown
+    Text-align: center
+}
+aside{
+    background-color: goldenrod;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+footer{
+    background-color: purple;
+    color:orange
+}
+.texto{
+    font-seze: 12px;
+    color:rgb() rgb(105, 226, 105), blue);
+}
+#articulo{
+    text-aling: center;
+    color: pink;
+    width: 200px;
+    height: 200px;
+    border: 3px solid rebeccapurple;
+}
+.secion2:hover{
+    background-color: purple;
+}
+#articulo:hover{
+    background-color: olive;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.liclassbotones1 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+input, button {
+    margin: 5px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+
+}
+
+.social-icons a {
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s;
+}
+
+.social-icons img:hover {
+    transform: scale(1.2);
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    margin:100px;
+    padding: 100px;
+}
